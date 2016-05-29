@@ -1,0 +1,29 @@
+
+
+@media only screen and (max-width: 800px){
+    
+    
+
+    
+}@media only screen and (max-width: 400px){
+    
+    
+    .pr{
+        display: block;
+    }
+    section aside{
+        padding-top: 30px;
+        width: 100%;
+        background-color: dodgerblue;;
+          border-radius: 10px;
+        
+        padding: 3px
+    }section article{
+        width: 100%;
+        background-color: dodgerblue;
+        border-radius: 10px;
+        
+        padding: 3px
+    }
+    
+}
